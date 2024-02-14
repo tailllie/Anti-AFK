@@ -45,7 +45,7 @@ func gui() {
 
 	content := container.NewVBox(
 		container.NewGridWithColumns(2,
-			widget.NewLabel("Duration"),
+			widget.NewLabel("Interval:"),
 			Label,
 			Slider,
 		),
