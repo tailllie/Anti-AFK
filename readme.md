@@ -11,7 +11,7 @@
   <a href="https://github.com/tailllie/Anti-AFK/issues">
     <img src="https://img.shields.io/github/issues/tailllie/Anti-AFK.svg?style=for-the-badge" alt="Issues" height="28">
   </a>
-  <a href="https://github.com/tailllie/Anti-AFK/blob/main/LICENSE.md">
+  <a href="https://github.com/tailllie/Anti-AFK/blob/main/license.md">
     <img src="https://img.shields.io/github/license/tailllie/Anti-AFK.svg?style=for-the-badge" alt="License" height="28">
   </a>
   <br>
